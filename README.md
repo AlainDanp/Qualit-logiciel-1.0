@@ -1,6 +1,6 @@
 # Projet Qualité logicielù
 ___
 > Membre du Groupe:
-- DATOUO ALAIN PAUL
+- DATOUO Alain Paul
 - NJIKE Hélène Ivana
 - MOSSAND Thomas
